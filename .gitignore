@@ -1,0 +1,7 @@
+.idea
+build
+.DS_Store
+scripts/.DS_Store
+temp
+env.json
+*.DS_Store
